@@ -1,48 +1,134 @@
-# Portfolio 2026
+# 👋 Portfolio 2026
 
-A modern, responsive, and SEO-optimized personal portfolio website built with vanilla HTML, CSS, and JavaScript. Designed to showcase web development skills with a premium "glassmorphism" aesthetic.
+> A modern, responsive, and SEO-optimized personal portfolio website built with **HTML5**, **CSS3**, and **Vanilla JavaScript**. Designed with a premium **glassmorphism** aesthetic to showcase my projects, skills, and web development experience.
 
-**Live Demo:** [https://kaushal-karna.github.io/portfolio-2026/]([https://kaushal-ka.github.io/portfolio-2026/](https://kaushal-karna.github.io/portfolio-2026/))
+<p align="center">
+  <a href="https://kaushal-karna.github.io/portfolio-2026/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-0A66C2?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/kaushal-karna/portfolio-2026">
+    <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+</p>
+
+---
 
 ## 🚀 Features
 
--   **Modern Design**: Dark theme with glassmorphism effects, gradients, and the 'Outfit' font family.
--   **Responsive Layout**: Fully responsive design that works seamlessly on desktops, tablets, and mobile devices.
--   **SEO Optimized**: Proper meta tags, Open Graph tags for social sharing, and semantic HTML structure.
--   **Animations**: usage of `IntersectionObserver` for scroll-triggered fade-in animations and 3D hover effects.
--   **Contact Form**: Client-side validation and responsive form layout.
--   **Performance**: Optimized for fast load times with no heavy framework dependencies.
+- 🎨 **Modern UI** – Dark theme with glassmorphism effects and smooth gradients.
+- 📱 **Fully Responsive** – Optimized for desktop, tablet, and mobile devices.
+- ⚡ **Fast Performance** – Lightweight and framework-free.
+- 🔍 **SEO Optimized** – Semantic HTML, Open Graph tags, and meta tags.
+- ✨ **Interactive Animations** – Scroll animations powered by `IntersectionObserver`.
+- 📬 **Contact Form** – Client-side validation with responsive layout.
+- 🎯 **Accessible Design** – Clean navigation and user-friendly interface.
 
-## 🛠️ Technologies
+---
 
--   **HTML5**: Semantic structure.
--   **CSS3**: Custom properties (variables), Flexbox, Grid, Keyframe animations.
--   **JavaScript (ES6+)**: DOM manipulation, Form validation, observers.
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Semantic page structure |
+| CSS3 | Styling, Grid, Flexbox, Animations |
+| JavaScript (ES6+) | Interactivity and DOM Manipulation |
+
+---
 
 ## 📂 Project Structure
 
+```text
+portfolio-2026/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│   └── icons/
+│
+├── index.html
+├── README.md
+└── LICENSE
 ```
-/
-├── assets/          # Images and static assets
-├── index.html       # Main entry point
-└── README.md        # Project documentation
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/kaushal-karna/portfolio-2026.git
 ```
 
-## 🏃‍♂️ How to Run
+### Navigate into the project
 
-Since this is a static site, you don't need a backend server.
+```bash
+cd portfolio-2026
+```
 
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/kaushal-ka/portfolio-2026.git
-    ```
-2.  **Open `index.html`**:
-    Simply double-click the `index.html` file to open it in your default web browser.
-    *Or use a local development server like VS Code Live Server for the best experience.*
+### Open the project
+
+Simply open `index.html` in your browser.
+
+Or, for a better development experience, use **VS Code Live Server**.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Portfolio:**  
+https://kaushal-karna.github.io/portfolio-2026/
+
+---
+
+## 📸 Preview
+
+> Add a screenshot or GIF here.
+
+Example:
+
+```md
+![Portfolio Screenshot](assets/images/preview.png)
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a Pull Request.
+
+---
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
-© 2026 Kaushal Karn. Built with code & creativity.
+
+## 👨‍💻 Author
+
+**Kaushal Karn**
+
+- 🌐 Portfolio: https://kaushal-karna.github.io/portfolio-2026/
+- 💻 GitHub: https://github.com/kaushal-karna
+- 📧 Email: *Add your email here*
+- 💼 LinkedIn: *Add your LinkedIn profile here*
+
+---
+
+<div align="center">
+
+⭐ If you like this project, consider giving it a star on GitHub!
+
+Made with ❤️ by **Kaushal Karn**
+
+</div>
