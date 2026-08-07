@@ -89,7 +89,7 @@ https://kaushal-karna.github.io/portfolio-2026/
 Example:
 
 ```md
-![Portfolio Screenshot](assets/images/preview.png)
+![Portfolio Screenshot](assets/preview.png)
 ```
 
 ---
@@ -120,8 +120,8 @@ See the [LICENSE](LICENSE) file for details.
 
 - 🌐 Portfolio: https://kaushal-karna.github.io/portfolio-2026/
 - 💻 GitHub: https://github.com/kaushal-karna
-- 📧 Email: *Add your email here*
-- 💼 LinkedIn: *Add your LinkedIn profile here*
+- 📧 Email: kaushalkarnakayansh@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/kaushal-karn/
 
 ---
 
