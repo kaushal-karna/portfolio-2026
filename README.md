@@ -2,7 +2,7 @@
 
 A modern, responsive, and SEO-optimized personal portfolio website built with vanilla HTML, CSS, and JavaScript. Designed to showcase web development skills with a premium "glassmorphism" aesthetic.
 
-**Live Demo:** [https://kaushal-karna.github.io/portfolio-2026/](https://kaushal-ka.github.io/portfolio-2026/)
+**Live Demo:** [https://kaushal-karna.github.io/portfolio-2026/]([https://kaushal-ka.github.io/portfolio-2026/](https://kaushal-karna.github.io/portfolio-2026/))
 
 ## 🚀 Features
 
